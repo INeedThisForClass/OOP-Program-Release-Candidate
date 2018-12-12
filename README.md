@@ -6,7 +6,5 @@ WHEN - This project was built throughout the OOP course taken with Dr. Vanselow.
 WHERE - This project was worked on partially in class and mostly at home.
 WHY - This project was assignment designed to improve knowledge on the Object Oriented environment.
 
-
-        OOP-Program-Release-Candidate/ezgifcomvideocutter3.gif
       
 
